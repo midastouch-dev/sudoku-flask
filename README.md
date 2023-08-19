@@ -2,7 +2,8 @@
 
 Ever solved a sudoku puzzle. It's tricky right? Don't worry! With this app you can get any valid sudoku puzzle solved within seconds. Just enter the sudoku config and hit submit.
 
-**Live Preview** : https://sudoku-solving-application.herokuapp.com/
+### [Open This Project](https://sudoku-midas-touch.netlify.app/)
+  ![ScreenShot](https://github.com/midastouch-dev/sudoku-flask/blob/master/screenshot/screen.jpg)
 
 ## Project Structure
 
